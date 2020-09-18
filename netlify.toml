@@ -5,5 +5,8 @@
 [[plugins]]
 package = "@netlify/plugin-sitemap"
 
+[[plugins]]
+package = "netlify-plugin-amp-server-side-rendering"
+
   [plugins.inputs]
   buildDir = "out"
