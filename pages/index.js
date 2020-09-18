@@ -2,6 +2,7 @@ import React from 'react'
 import Head from 'next/head'
 
 const Home = () => (
+  <title>Dhika Ganteng!</title>
   <div>
     <h1>ANJIM !</h1>
 
