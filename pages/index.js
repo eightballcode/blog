@@ -6,7 +6,7 @@ const Home = () => (
   <title>Dhika Ganteng!</title>
     <h1>ANJIM !</h1>
 
-    <h3>Dhika <a href="wa.me/628994192174">Ganteng</a>!</h3>
+    <h3>Dhika <a href="https://wa.me/628994192174">Ganteng</a>!</h3>
 
     <style jsx>{`
       :global(html,body) {
